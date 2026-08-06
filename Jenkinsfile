@@ -11,7 +11,7 @@ pipeline {
 
     /*
      * Environment variables are accessible throughout the Pipeline.
-     *
+     ******
      * Adjust these values accordingly 
      */
     environment {
