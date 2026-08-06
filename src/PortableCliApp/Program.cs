@@ -33,6 +33,7 @@ Console.WriteLine();
 string greeting = ApplicationFunctions.CreateGreeting(" Jenkins workshop participant ");
 
 Console.WriteLine("Greeting function");
+Console.WriteLine("HELLO FROM PENANG!!! KG");
 Console.WriteLine("-----------------");
 Console.WriteLine(greeting);
 Console.WriteLine();
