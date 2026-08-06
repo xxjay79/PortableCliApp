@@ -41,7 +41,7 @@ public static class ApplicationFunctions
          */
         string normalizedName = name.Trim();
 
-        return $"Hello, {normalizedName}!";
+        return $"Hello, {normalizedName}! I did a new change here";
     }
 
     /// <summary>
