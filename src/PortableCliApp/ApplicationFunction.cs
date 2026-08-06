@@ -54,7 +54,7 @@ public static class ApplicationFunctions
         /// Comment out the previous statement
         /// and uncomment the one below to introduce an error
         
-        firstNumber - secondNumber;
+        ///return firstNumber - secondNumber;
 
     }
 
